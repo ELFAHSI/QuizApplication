@@ -1,0 +1,105 @@
+{
+   "data":{
+      "questions":[
+         {
+            "subject":"Sport",
+            "correct_answer":"France",
+            "fisrt_option":"Brasil",
+            "second_option":"France",
+            "third_option":"Maroc",
+            "question":"Quelle équipe a remporté la Coupe du monde en France en 98 ?"
+         },
+         {
+             "subject":"Sport",
+            "correct_answer":"Juventus",
+            "fisrt_option":"Barcelona",
+            "second_option":"Madrid",
+            "third_option":"Juventus",
+            "question":"Quelle est l'équipe la plus célèbre de la ville italienne de Turin ? "
+         },
+         {
+             "subject":"Sport",
+            "correct_answer":"4",
+            "fisrt_option":"4",
+            "second_option":"2",
+            "third_option":"3",
+            "question":"Combien de Coupes du monde l'Italie a-t-elle gagné ?"
+         },
+         {
+             "subject":"Sport",
+            "correct_answer":"90",
+            "fisrt_option":"45",
+            "second_option":"120",
+            "third_option":"90",
+            "question":"Quelle est la durée d'un match de football ?"
+         },
+         
+         {
+            "subject":"GEO",
+            "correct_answer":"Le Pacifique",
+            "fisrt_option":"Le Pacifique",
+            "second_option":"L'Atlantique",
+            "third_option":"La Méditerranée",
+            "question":"Quel est le plus grand océan du monde ?"
+         },
+         {
+             "subject":"GEO",
+            "correct_answer":"En Amerique",
+            "fisrt_option":"En Amerique",
+            "second_option":"En Afrique",
+            "third_option":"En Europe",
+            "question":"Où se trouve l'argentine ? "
+         },
+         {
+             "subject":"GEO",
+            "correct_answer":"Darija",
+            "fisrt_option":"Francais",
+            "second_option":"Darija",
+            "third_option":"Arab",
+            "question":"Quelle est la langue officielle du Maroc ?"
+         },
+         {
+            "subject":"GEO",
+            "correct_answer":"En Afrique",
+            "fisrt_option":"En Assie",
+            "second_option":"En Afrique",
+            "third_option":"En Europe",
+            "question":"Où se trouve le Maroc ?"
+         },
+         
+         {
+            "subject":"Music",
+            "correct_answer":"Sheilla",
+            "fisrt_option":"Abie",
+            "second_option":"Genefer",
+            "third_option":"Sheilla",
+            "question":"Sous quel nom est connue Annie Chancel"
+         },
+         {
+            "subject":"Music",
+            "correct_answer":"toute l’été",
+            "fisrt_option":"toute l’été",
+            "second_option":"s’il vous plaît",
+            "third_option":"dans ce monde enchanté",
+            "question":"Trouvez la suite des paroles de cette chanson interprétée par Dalida : « Laissez-moi danser, laissez-moi / Laissez-moi danser, chanter en liberté… »"
+         },
+         {
+            "subject":"Music",
+            "correct_answer":"Verdi",
+            "fisrt_option":"Algo",
+            "second_option":"Bizzet",
+            "third_option":"Verdi",
+            "question":"Qui a composé l’opéra La Traviata ?"
+         },
+         {
+            "subject":"Music",
+            "correct_answer":"britannique",
+            "fisrt_option":"Algérien",
+            "second_option":"marocain",
+            "third_option":"britannique",
+            "question":"Freddie Mercury était un musicien et chanteur…"
+         }
+         
+      ]
+   }
+}
